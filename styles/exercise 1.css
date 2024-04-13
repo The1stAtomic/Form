@@ -1,0 +1,26 @@
+.name {
+  font-weight: bold;
+  font-family: Arial;
+  text-align: center;
+  font-size: 20px;
+}
+
+.please {
+  margin-top: 7px;
+  border: none;
+  text-align: center;
+  padding: 12px 50px;
+  font-size: 17px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+  background-color: #CCCCFF;
+}
+
+.submit {
+  margin-top: 14px;
+  background-color: #CCCCFF;
+  padding: 10px 12px;
+  border-radius: 20px;
+  cursor: pointer;
+  border: none;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+}

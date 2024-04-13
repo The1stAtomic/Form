@@ -1,0 +1,75 @@
+label {
+  font-weight: bold;
+  font-size: 17px;
+}
+
+input {
+  font-size: 17px;
+}
+
+.outerbox {
+  padding: 10px 20px;
+  border: 1px solid black;
+  border-style: dotted;
+  background-color: #AFE1AF;
+}
+
+.innerbox {
+  padding: 10px 20px;
+  border: 1px solid red;
+  border-style: dashed;
+  background-color: #AFE1AF;
+}
+
+.material-symbols-outlined {
+  vertical-align: bottom;
+}
+
+.name {
+  padding: 1px 2px;
+  margin: 0 0 5px 150px;
+}
+
+.email {
+  padding: 1px 2px;
+  margin: 0 0 5px 149px;
+}
+
+.organisation {
+  width: 170px;
+  padding: 1px 2px;
+  margin: 0 0 5px 97px;
+}
+
+.position {
+  width: 170px;
+  padding: 1px 2px;
+  margin: 0 0 5px 134px;
+}
+
+.number {
+  width: 170px;
+  padding: 1px 2px;
+  margin: 0 0 5px 54px;
+}
+
+.country {
+  font-size: 13px;
+  width: 155px;
+  padding: 1px 2px;
+  margin: 0 0 5px 131px;
+}
+
+.feedback {
+  margin-top: 5px;
+}
+
+.button {
+  font-size: 15px;
+}
+
+.note {
+  font-weight: bold;
+  color: darkblue;
+  font-style: italic;
+}
